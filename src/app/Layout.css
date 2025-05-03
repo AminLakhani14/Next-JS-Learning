@@ -1,0 +1,35 @@
+.Navbar {
+    color: #ffffff;
+    background-color: rgb(71, 131, 200);
+    justify-content: space-between;
+    display: flex;
+    padding: 20px;
+    margin: 30px;
+  }
+
+  .topic{
+    border: 2px solid rgb(27, 39, 203) !important;
+    border-radius: 18px;
+    justify-content: space-between;
+    display: flex;
+    padding: 8px;
+    margin: 15px;
+  }
+
+  .btn{
+    width: 100%;
+    height: 30px;
+    color: white;
+    background: orange;
+    font-size: medium;
+    font-weight: bold;
+  }
+  .input{
+    width: 91%;
+    height: 30px;
+    display: flex;
+    border: 2px solid gray !important;
+    margin: 30px;
+    padding: 5px;
+    border-radius: 10px;
+  }
